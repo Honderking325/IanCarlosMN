@@ -13,7 +13,9 @@ Me interesa el desarrollo backend con arquitectura MVC, y estoy construyendo mi 
 - Documentación clara y enfoque en buenas prácticas.  
 - Motivación por crecer como desarrollador profesional y aprender continuamente.  
 
- 🔧 Habilidades                        - Frontend: JavaScript, HTML, CSS 
+ 🔧 Habilidades   
+ 
+- Frontend: JavaScript, HTML, CSS, boostrap 
 - Backend: PHP, Java, C# 
 - Bases de datos: MySQL 
 - Herramientas: Git, VS Code, Composer, XAMPP, Visual Paradigm
