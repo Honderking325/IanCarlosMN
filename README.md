@@ -30,7 +30,8 @@ Me interesa el desarrollo backend con arquitectura MVC, y estoy construyendo mi 
 
  🌐 Encuéntrame en línea
 
-LinkedIn: [Ian Carlos Martínez Núñez]
+LinkedIn: 
+https://www.linkedin.com/in/ian-carlos-martinez-nuñez-796825422
 - GitHub: [TuUsuario](#)  
 .**
 
