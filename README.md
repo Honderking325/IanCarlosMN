@@ -13,8 +13,11 @@ Me interesa el desarrollo backend con arquitectura MVC, y estoy construyendo mi 
 - Documentación clara y enfoque en buenas prácticas.  
 - Motivación por crecer como desarrollador profesional y aprender continuamente.  
 
- 🔧 Habilidades
-                                         
+ 🔧 Habilidades                        - Frontend: JavaScript, HTML, CSS 
+- Backend: PHP, Java, C# 
+- Bases de datos: MySQL 
+- Herramientas: Git, VS Code, Composer, XAMPP, Visual Paradigm
+- Arquitectura: MVC
 
  🌱 Actualmente explorando
 
@@ -32,9 +35,5 @@ Me interesa el desarrollo backend con arquitectura MVC, y estoy construyendo mi 
 
 LinkedIn: 
 https://www.linkedin.com/in/ian-carlos-martinez-nuñez-796825422
-- GitHub: [TuUsuario](#)  
-.**
 
----
-
-*"Programar es mi pasión; crecer como profesional es mi misión."*
+GitHub: IanCarlosMN 
